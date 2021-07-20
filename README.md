@@ -1,0 +1,1 @@
+This is a messy and incomplete collection of my notes & code from our 100Devs Remo Practice sessions. Feel free to clone it or fork it, and I'll gladly accept pull requests that add to what I've got.
